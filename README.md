@@ -1,1 +1,1 @@
-# proyecto-colaborativo ”Proyecto de innovación web”
+Este es el proyecto líder de innovación web de la empresa
